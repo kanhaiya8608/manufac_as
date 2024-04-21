@@ -56,7 +56,7 @@ The statistical measures calculated for the Wine Data Set are:
   - **`data/`**: Contains Wine Data Set JSON file.
   - **`utils/`**: Contains utility functions for calculating statistics.
   - **`components/`**: Contains React components for displaying statistics.
-  - **`App.tsx`**: Main component for rendering the application.
+  - **`App.js`**: Main component for rendering the application.
 
 ## License
 

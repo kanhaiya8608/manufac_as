@@ -29,7 +29,7 @@ git clone <repository_url>
 
 ```
 cd <project_directory>
-yarn install
+yarn 
 ```
 
 ## Usage
